@@ -1,0 +1,16 @@
+C:\Users\Ranee\source\repos\day4\day4\bin\Debug\net5.0\day4.exe
+C:\Users\Ranee\source\repos\day4\day4\bin\Debug\net5.0\day4.deps.json
+C:\Users\Ranee\source\repos\day4\day4\bin\Debug\net5.0\day4.runtimeconfig.json
+C:\Users\Ranee\source\repos\day4\day4\bin\Debug\net5.0\day4.runtimeconfig.dev.json
+C:\Users\Ranee\source\repos\day4\day4\bin\Debug\net5.0\day4.dll
+C:\Users\Ranee\source\repos\day4\day4\bin\Debug\net5.0\ref\day4.dll
+C:\Users\Ranee\source\repos\day4\day4\bin\Debug\net5.0\day4.pdb
+C:\Users\Ranee\source\repos\day4\day4\obj\Debug\net5.0\day4.csprojAssemblyReference.cache
+C:\Users\Ranee\source\repos\day4\day4\obj\Debug\net5.0\day4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ranee\source\repos\day4\day4\obj\Debug\net5.0\day4.AssemblyInfoInputs.cache
+C:\Users\Ranee\source\repos\day4\day4\obj\Debug\net5.0\day4.AssemblyInfo.cs
+C:\Users\Ranee\source\repos\day4\day4\obj\Debug\net5.0\day4.csproj.CoreCompileInputs.cache
+C:\Users\Ranee\source\repos\day4\day4\obj\Debug\net5.0\day4.dll
+C:\Users\Ranee\source\repos\day4\day4\obj\Debug\net5.0\ref\day4.dll
+C:\Users\Ranee\source\repos\day4\day4\obj\Debug\net5.0\day4.pdb
+C:\Users\Ranee\source\repos\day4\day4\obj\Debug\net5.0\day4.genruntimeconfig.cache
